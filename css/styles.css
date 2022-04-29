@@ -1,0 +1,57 @@
+:root {
+    --primary-text-color: #757575;
+    --title-text-color: #212121;
+    --accent-color: #2196F3;
+    --background-color: #F5F4FA;
+
+}
+
+.social {
+    fill: rgba(255, 255, 255, 0.1);
+}
+.footer {
+    background-color: #2F303A;
+}
+.list {
+    list-style: none;
+}
+.web-studio {
+    font-family: Raleway;
+    font-style: Bold;
+    font-size: 26px;
+    line-height: 31px;
+    line-height: 100%;
+    letter-spacing: 3%;
+    vertical-align: Top;
+    color: #000000;
+    text-decoration: none;
+    }
+    .web {
+        color: var(--accent-color);
+    }
+    .navigation.inline {
+        color: var(--accent-color);
+    }
+    .navigation:hover,
+    .navigation:focus{
+        color: var(--accent-color);
+    }
+
+
+    .navigation {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        color: #212121;
+        text-decoration: none;
+    }
+    .body {
+        font-family: Roboto;
+    }
+
+.contacts {
+    color: var(--primary-text-color);
+}
