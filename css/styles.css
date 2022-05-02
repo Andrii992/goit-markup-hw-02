@@ -45,7 +45,6 @@
     color: var(--accent-color);
     }
 
-
 .navigation {
     font-weight: 500;
     font-size: 14px;
@@ -54,6 +53,9 @@
     color: #212121;
     text-decoration: none;
     }
+.head-nav {
+    color: var(--primary-text-color);
+}
 .body {
     font-family: Roboto;
     color: #757575;
